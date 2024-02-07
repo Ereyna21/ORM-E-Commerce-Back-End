@@ -36,6 +36,9 @@ For additional questions, you can reach me through:
 - GitHub: [Ereyna21](https://github.com/Ereyna21)
 - Email: ereyna21075@gmail.com
 
+
+***** NEED TO CHANGE .env.Example to .env for application to work*****
+
 Recording Link:
 https://drive.google.com/file/d/1r-MJ7B1ZKo7jE9TTKdVyzxZ4H7_-qeeY/view
 
